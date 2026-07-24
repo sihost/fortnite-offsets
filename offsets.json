@@ -53,7 +53,7 @@
   "bDisableEquipAnimation": "0x381",
   "CurrentVehicle": "0x2B00",
   "bUseGravity": "0x85F",
-  "bIgnoreTryToFireSlotCooldownRestriction":
+  "bIgnoreTryToFireSlotCooldownRestriction": "0x1801",
   "CustomTimeDilation": "0x68",
   "bIsReloadingWeapon": "0x379",
   "GlobalAnimRateScale": "0xA10",
