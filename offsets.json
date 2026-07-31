@@ -1,10 +1,10 @@
 {
   "GEngine": "0x1A73E298",
-  "GameViewport": "0x78",
+  "GameViewport": "0xB70",
   "World": "0x78",
   "OwningGameInstance": "0x250",
   "GameState": "0x1D8",
-  "CachedViewInfoRenderedLastFrame": "0x188",
+  "CachedViewInfoRenderedLastFrame": "0x178",
   "Levels": "0x1F0",
   "LevelActors": "0x120",
   "bAlreadySearched": "0xCE2",
