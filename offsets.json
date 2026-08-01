@@ -5,7 +5,7 @@
   "OwningGameInstance": "0x250",
   "GameState": "0x1D8",
   "CachedViewInfoRenderedLastFrame": "0x188",
-  "Levels": "0x188",
+  "Levels": "0x1F0",
   "LevelActors": "0x120",
   "bAlreadySearched": "0xce2",
   "RelativeLocation": "0x140",
