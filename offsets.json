@@ -14,7 +14,7 @@
   "PlayerArray": "0x288",
   "PlayerState": "0x290",
   "AcknowledgedPawn": "0x318",
-  "TargetedFortPawn": "0x1650",
+  "TargetedFortPawn": "0x1660",
   "CurrentWeapon": "0xA68",
   "Mesh": "0x2F0",
   "WeaponData": "0x600",
