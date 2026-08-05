@@ -83,5 +83,7 @@
   "bFireBlockedByEmoteCooldown": "0xF08",
   "EmoteToFireCooldownTime": "0xF0C",
   "CurrentReticleColor": "0x1000",
-  "bADSWhileNotOnGround": "0x5391"
+  "bADSWhileNotOnGround": "0x5391",
+  "SlidingFriction": "0x890",
+  "SlidingBrakingDeceleration": "0x898"
 }
