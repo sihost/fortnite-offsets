@@ -4,7 +4,7 @@
   "World": "0x78",
   "OwningGameInstance": "0x238",
   "GameState": "0x1C0",
-  "CachedViewInfoRenderedLastFrame": "0x188",
+  "CachedViewInfoRenderedLastFrame": "0x178",
   "Levels": "0x1D8",
   "LevelActors": "0x38",
   "bAlreadySearched": "0xce2",
