@@ -1,5 +1,5 @@
 {
-  "GEngine": "0x1AC83068",
+  "GEngine": "0x1B1D2C68",
   "GameViewport": "0xB70",
   "World": "0x78",
   "OwningGameInstance": "0x240",
@@ -42,7 +42,7 @@
   "LastRenderTime": "0x548",
   "LastSubmitTime": "0x544",
   "bIsDying": "0x728",
-  "Rarity": "0x180DA748",
+  "Rarity": "0x186B9BF8",
   "Spectators": "0xac0",
   "SpectatorArray": "0x48",
   "bDisableEquipAnimation": "0x0361",
