@@ -61,6 +61,8 @@
   "bFirstShotAccuracyCheckVehicleMovement": "0x26d5",
   "FOVMinimum": "0x22c0",
   "FOVMaximum": "0x22c4",
+  "CameraManager": "0x330",
+  "DefaultFOV": "0x28C",
   "InteractionComponent": "0x2948",
   "StartInteractTime": "0x290",
   "BurstFireCounter": "0x1160",
@@ -70,5 +72,11 @@
   "NetConnection": "0x4b0",
   "bForceRefpose": "0xa11",
   "RelativeScale3D": "0x170",
-  "bADSWhileNotOnGround": "0x5841"
+  "bADSWhileNotOnGround": "0x5841",
+  "LocalFireRateModification": "0x1EFC",
+  "CurrentNumBullets": "0x1F00",
+  "bNeverUpdateLastFireTimeOnImpact": "0x35C",
+  "CharacterMovement": "0x300",
+  "MaxWalkSpeed": "0x278",
+  "JumpZVelocity": "0x1A8"
 }
